@@ -1,0 +1,29 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.navegacao{
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navegacao > li > a{
+    font-size: 25px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+footer > p {
+    font-size: 25px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: aliceblue;
+    justify-content: space-around;
+}
